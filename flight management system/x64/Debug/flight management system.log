@@ -1,0 +1,22 @@
+﻿  main.cpp
+C:\Users\Pc\OneDrive\computer graphics\flight management system\flight management system\main.cpp(86,75): warning C4244: 'argument': conversion from 'int' to 'T', possible loss of data
+C:\Users\Pc\OneDrive\computer graphics\flight management system\flight management system\main.cpp(86,75): warning C4244:         with
+C:\Users\Pc\OneDrive\computer graphics\flight management system\flight management system\main.cpp(86,75): warning C4244:         [
+C:\Users\Pc\OneDrive\computer graphics\flight management system\flight management system\main.cpp(86,75): warning C4244:             T=float
+C:\Users\Pc\OneDrive\computer graphics\flight management system\flight management system\main.cpp(86,75): warning C4244:         ]
+C:\Users\Pc\OneDrive\computer graphics\flight management system\flight management system\main.cpp(86,55): warning C4244: 'argument': conversion from 'int' to 'T', possible loss of data
+C:\Users\Pc\OneDrive\computer graphics\flight management system\flight management system\main.cpp(86,55): warning C4244:         with
+C:\Users\Pc\OneDrive\computer graphics\flight management system\flight management system\main.cpp(86,55): warning C4244:         [
+C:\Users\Pc\OneDrive\computer graphics\flight management system\flight management system\main.cpp(86,55): warning C4244:             T=float
+C:\Users\Pc\OneDrive\computer graphics\flight management system\flight management system\main.cpp(86,55): warning C4244:         ]
+C:\Users\Pc\OneDrive\computer graphics\flight management system\flight management system\main.cpp(96,67): warning C4244: 'argument': conversion from 'int' to 'T', possible loss of data
+C:\Users\Pc\OneDrive\computer graphics\flight management system\flight management system\main.cpp(96,67): warning C4244:         with
+C:\Users\Pc\OneDrive\computer graphics\flight management system\flight management system\main.cpp(96,67): warning C4244:         [
+C:\Users\Pc\OneDrive\computer graphics\flight management system\flight management system\main.cpp(96,67): warning C4244:             T=float
+C:\Users\Pc\OneDrive\computer graphics\flight management system\flight management system\main.cpp(96,67): warning C4244:         ]
+C:\Users\Pc\OneDrive\computer graphics\flight management system\flight management system\main.cpp(96,47): warning C4244: 'argument': conversion from 'int' to 'T', possible loss of data
+C:\Users\Pc\OneDrive\computer graphics\flight management system\flight management system\main.cpp(96,47): warning C4244:         with
+C:\Users\Pc\OneDrive\computer graphics\flight management system\flight management system\main.cpp(96,47): warning C4244:         [
+C:\Users\Pc\OneDrive\computer graphics\flight management system\flight management system\main.cpp(96,47): warning C4244:             T=float
+C:\Users\Pc\OneDrive\computer graphics\flight management system\flight management system\main.cpp(96,47): warning C4244:         ]
+  flight management system.vcxproj -> C:\Users\Pc\OneDrive\computer graphics\flight management system\x64\Debug\flight management system.exe
